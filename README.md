@@ -51,6 +51,3 @@ Run three level feedback queue with any two time slices:
 $ fbq 10 30  < CPULoad.dat
 ```
 
-## License
-
-MIT &copy; Ursula Sarracini
